@@ -12,6 +12,6 @@ I'm your average nerd fascinated by the world of computers. I spend my time -
 
 ### Mission
 
-I am building this repository bit-by-bit, in order to capture my growth as someone dedicated to creating software that makes our lives just a tiny bit better. Hope you have fun exploring my work!
+I am building this repository bit-by-bit, in order to capture my growth as someone dedicated to creating software that makes lives just a tad bit better. Hope you have fun exploring my work!
 
-Ciao! ❤️
+Ciao ❤️
