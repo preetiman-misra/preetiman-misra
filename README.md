@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm your average nerd fascinated by the world of computers. I spend my time -
+I'm fascinated by the world of computers and spend my time -
 
 * Exploring the field of Computer Science
 * Creating Digital Art
