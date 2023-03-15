@@ -8,7 +8,7 @@ I'm your average nerd fascinated by the world of computers. I spend my time -
 
 * Exploring the field of Computer Science
 * Creating Digital Art
-* Spend an unhealthy amount of time reading books (sometimes 8 hours a day)
+* Reading books (sometimes 8 hours a day! 😲)
 
 ### Mission
 
