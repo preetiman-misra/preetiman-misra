@@ -4,15 +4,11 @@
 
 ## About Me
 
-I'm fascinated by the world of computers and spend my time -
-
-* Exploring the field of Computer Science
-* Creating Digital Art
-* Reading books (sometimes 8 hours a day! 😲)
+STEM is what captivates my attention. Start and end my days with endless entanglements with what the world has to offer.
 
 ## Mission
 
-I am building this GitHub Repository in order to record my growth as someone dedicated to creating software that makes lives just a tad bit better. 
+I am building this GitHub Repository in order to record my growth as someone dedicated to creating things that makes lives just a tad bit better. 
 Hope you have fun exploring my work!
 
 Yours Sincerely,
